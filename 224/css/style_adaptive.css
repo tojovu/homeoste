@@ -1,0 +1,340 @@
+@media (max-width: 980px) {
+    /*******************slide1**********************/
+    .wrapper {
+        min-width: 0;
+    }
+    .slide1 {
+        width: 100%;
+        background-position-x: 58%;
+        background-color: #bcdcdf;
+        background-size: cover;
+        margin-bottom: 287px;
+    }
+    .page-wrapper__inner {
+        width: 100%;
+        padding: 0;
+    }
+    .logo.right {
+        margin-right: 20px
+    }
+    .logo2,
+    .logo2+div {
+        text-align: center;
+    }
+    .logo2 {
+        font-size: 60px;
+        padding-top: 0;
+        margin: auto;
+    }
+    .txt-after-logo {
+        padding-top: 0;
+        font-size: 22px;
+        padding-left: 15px;
+        padding-right: 15px;
+    }
+    .tovarzzz {
+        left: 50%;
+        margin-left: -250px;
+        top: 500px;
+        position: absolute;
+        z-index: 100;
+    }
+    .timer-wrap {
+        width: 0;
+        height: 0;
+    }
+    .s1-for-button {
+        width: 100%;
+        top: 810px;
+        display: block;
+        height: 288px;
+    }
+    .timer-header,
+	.form-bottom,
+    .timer-bg,
+    .txt-after-logo br {
+        display: none;
+    }
+    .s1-f-b-hear {
+        margin-top: 50px;
+        font-size: 24px;
+    }
+    .s1-txt.first {
+        right: 65%;
+    }
+    .s1-txt.sec {
+        right: 20%;
+    }
+    .s1-txt.th {
+        right: 20%;
+    }
+    /*******************slide2**********************/
+    .slide2 {
+        height: auto;
+        background-size: cover;
+    }
+    .journals {
+        bottom: 0;
+    }
+    .s2-items-wrap {
+        overflow: hidden;
+    }
+    .h2-header {
+        padding-bottom: 10px;
+        padding-right: 15px;
+    }
+    .s2-item {
+        width: 50%;
+        height: 235px;
+        float: left;
+        margin: 0;
+        padding-left: 15px;
+        padding-right: 15px;
+        box-sizing: border-box;
+    }
+    .s3-glob {
+        display: none;
+    }
+    .s4-centr-text {
+        top: 25px;
+        font-size: 24px;
+    }
+    .s4-centr-text span {
+        font-size: 32px;
+    }
+    .s1-button.s4 {
+        top: 355px;
+    }
+    .slide5 {
+        height: auto;
+    }
+    .slider-wrap {
+        width: 80%;
+        height: auto;
+    }
+    .slide6 {
+        height: 1100px;
+        background: #bcdcdf;
+    }
+    .right-form {
+        right: 50%;
+        top: 575px;
+        margin-right: -167px;
+    }
+    .bottom-pack {
+        left: 50%;
+        margin-left: -115px;
+        top: 275px;
+    }
+    .s6-left-side {
+        text-align: center;
+    }
+    .pare {
+        display: none;
+    }
+    .today {
+        font-size: 35px;
+    }
+    .percents {
+        font-size: 60px;
+    }
+    footer {
+        padding-left: 20px;
+        padding-right: 20px;
+    }
+}
+
+@media (max-width: 768px) {
+    .slide1 {
+        background-image: none;
+    }
+    .s1-txt.first,
+    .s1-txt.sec,
+    .s1-txt.th {
+        width: 280px;
+        right: 50%;
+        margin-right: -140px;
+        background: url(../img/list1.png) 0 50% no-repeat;
+        padding-left: 50px;
+        box-sizing: border-box;
+    }
+    .s1-txt.first br,
+    .s1-txt.sec br,
+    .s1-txt.th br {
+        display: none;
+    }
+    .logo.right {
+        right: 50%;
+        margin-right: -72px
+    }
+    .logo.left {
+        left: 50%;
+        margin-left: -72px
+    }
+    .logo2 {
+        padding-top: 140px;
+    }
+    .s1-txt.first {
+        top: 250px;
+    }
+    .s1-txt.sec {
+        top: 350px;
+    }
+    .s1-txt.th {
+        top: 450px;
+    }
+    .s2-right-side {
+        padding-left: 0;
+    }
+    .journals {
+        display: none;
+    }
+    .h2-header {
+        padding-top: 140px;
+        padding-left: 15px;
+    }
+    .slide3 {
+        background: #f4f4f4;
+        background-image: none;
+        height: auto;
+        padding-bottom: 50px;
+    }
+    .s3-top-h {
+        width: 100%;
+        background: #fcb405;
+        background-image: none;
+        margin-top: 100px;
+        text-align: center;
+        padding-left: 15px;
+        padding-right: 15px;
+        padding-top: 35px;
+        font-size: 20px;
+    }
+    .s3-product {
+        height: auto;
+        width: 100%;
+        background-image: none;
+        background: #0172a4;
+        margin-top: 20px;
+        padding-bottom: 54px;
+        text-align: center;
+    }
+    .slide4 {
+        background-image: none;
+        background: #bcdcdf;
+        height: 1995px;
+    }
+    .poligon.item1,
+    .poligon.item2,
+    .poligon.item3,
+    .poligon.item4,
+    poligon.item5 {
+        left: 50%;
+        margin-left: -173px
+    }
+    .poligon.item1 {
+        top: 250px;
+    }
+    .poligon.item2 {
+        top: 600px;
+    }
+    .poligon.item3 {
+        top: 950px;
+    }
+    .poligon.item4 {
+        top: 1300px;
+    }
+    .poligon.item5 {
+        top: 1650px;
+    }
+    .s1-button.s4 {
+        top: 1885px;
+    }
+    .s4-header {
+        padding-top: 150px;
+        font-size: 28px;
+        padding-left: 15px;
+        padding-right: 15px;
+    }
+    .slider-header {
+        padding: 0;
+        height: 250px;
+        text-align: center;
+        width: 100%;
+        margin: 20px auto;
+        padding-left: 30%;
+        padding-right: 30%;
+        background: #fcb405;
+    }
+    .photo-namez {
+        padding-top: 15px;
+    }
+    .photo-descriptin {
+        color: black;
+    }
+    .bx-wrapper .bx-controls-direction a {
+        top: 140px;
+    }
+    .bx-wrapper .bx-next {
+        right: 50%;
+        margin-right: -150px;
+    }
+    .bx-wrapper .bx-controls-direction a:hover {
+        background-position: 0 0;
+    }
+    .bx-wrapper .bx-prev {
+        left: 50%;
+        margin-left: -150px;
+    }
+    .slider-header .photo-namez {
+        width: 90%;
+    }
+    @media (max-width: 520px) {
+        .s2-item {
+            width: 100%;
+            margin-top: 20px;
+        }
+        .s3-product {
+            margin-left: -5px;
+        }
+        .slider-wrap {
+            width: 100%;
+        }
+        .bxsliderr p {
+            padding-left: 20px;
+            padding-right: 20px;
+            text-align: center;
+        }
+        footer {
+            text-align: center;
+        }
+        .bottom-pack {
+            margin-top: 30px;
+        }
+        .right-form {
+            width: 300px;
+            height: 400px;
+            margin-right: -150px;
+            background-image: none;
+            background-color: white;
+        }
+        .form-header {
+            background: #fcb405;
+            padding: 10px;
+            margin-bottom: 30px;
+        }
+        .today {
+            font-size: 28px;
+            float: left;
+            padding-left: 10px;
+            text-align: left;
+        }
+        .form-bottom {
+            width: 300px;
+            margin-left: -15px;
+        }
+        .s1-button.form-send {
+            left: 10px;
+        }
+    }
+}
